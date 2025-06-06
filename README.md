@@ -36,9 +36,7 @@ Example Input:
     {"id": 2, "name": "Bob", "age": 22, "email": "bob@example.com"},
     {"id": 3, "name": "Charlie", "age": 17, "email": "charlie@example.com"},
     {"id": 4, "name": "Alex", "age": 35, "email": "alex@example.com"},
-    {"id
-
-": 5, "name": "Bill", "age": 19, "email": "bill@example.com"},
+    {"id": 5, "name": "Bill", "age": 19, "email": "bill@example.com"},
     {"id": 6, "name": "Cindy", "age": 31, "email": "cindy@example.com"},
     {"id": 7, "name": "Ben", "age": 27, "email": "ben@example.com"}
   ]
