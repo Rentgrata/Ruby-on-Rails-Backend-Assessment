@@ -14,7 +14,7 @@ Question: Implement a Ruby on Rails API endpoint that receives a JSON payload co
 - The endpoint should return a JSON response with the following structure:
    ```json
    {
-     "average_age": 28.5,
+     "average_age": 27.0,
      "user_count_by_initial": {
        "A": 2,
        "B": 3,
